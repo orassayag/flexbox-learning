@@ -1,6 +1,6 @@
-# CLIENT
+# Flexbox Learning
 
-Client to be built in November 2018. The goal of these project is to try, learn, and practice with flex-box techniques in CSS.
+Client to be built in November 2018. The goal of these projects is to try, learn, and practice with flex-box techniques in CSS.
 
 ## Getting Started
 
@@ -14,7 +14,6 @@ READ THE FOLLOWING SETTINGS BEFORE YOU BEGIN:
 
 -Instructions & How to use:
 In terminal: npm start
-
 Happy testing! :)
 
 ### Prerequisites
