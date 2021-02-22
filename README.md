@@ -1,6 +1,6 @@
 # Flexbox Learning
 
-Client to be built in November 2018. The goal of these projects is to try, learn, and practice with flex-box techniques in CSS.
+Built in November 2018. Two projects to try, learn, and practice with flex-box techniques in CSS.
 
 ## Getting Started
 
