@@ -1,0 +1,49 @@
+{
+  "name": "flexbox-learning",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A collection of practical HTML and CSS examples to learn and practice CSS Flexbox layout techniques including responsive navigation menus, item ordering, nested containers, and grid systems.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/flexbox-learning.git"
+  },
+  "keywords": [
+    "css",
+    "flexbox",
+    "css3",
+    "html5",
+    "responsive-design",
+    "layout",
+    "frontend",
+    "web-development",
+    "learning",
+    "examples",
+    "navigation-menu",
+    "grid-layout",
+    "mobile-first"
+  ],
+  "main": "project1/index.html",
+  "scripts": {
+    "start": "echo 'No build process needed! Open any .html file in your browser or use Live Server extension in VSCode.'"
+  },
+  "author": "Or Assayag <orassayag@gmail.com>",
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "files": [
+    "project1",
+    "project2",
+    ".gitignore",
+    ".gitattributes",
+    "CONTRIBUTING.md",
+    "INSTRUCTIONS.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "license": "MIT"
+}
