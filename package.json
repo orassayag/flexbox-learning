@@ -2,11 +2,7 @@
   "name": "flexbox-learning",
   "version": "1.0.0",
   "private": false,
-  "description": "A collection of practical HTML and CSS examples to learn and practice CSS Flexbox layout techniques including responsive navigation menus, item ordering, nested containers, and grid systems.",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/orassayag/flexbox-learning.git"
-  },
+  "description": "A practical HTML/CSS Flexbox learning collection with hands-on examples of responsive navigation, grids, item ordering, alignment, and nested flex containers. Built for beginners and intermediate developers to edit code in-browser and see instant results. No build tools or dependencies required",
   "keywords": [
     "css",
     "flexbox",
@@ -22,11 +18,24 @@
     "grid-layout",
     "mobile-first"
   ],
-  "main": "project1/index.html",
-  "scripts": {
-    "start": "echo 'No build process needed! Open any .html file in your browser or use Live Server extension in VSCode.'"
+  "homepage": "https://github.com/orassayag/flexbox-learning#readme",
+  "bugs": {
+    "url": "https://github.com/orassayag/flexbox-learning/issues"
   },
-  "author": "Or Assayag <orassayag@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/flexbox-learning.git"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/orassayag"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Or Assayag",
+    "email": "orassayag@gmail.com",
+    "url": "https://github.com/orassayag"
+  },
   "contributors": [
     {
       "name": "Or Assayag",
@@ -34,16 +43,28 @@
       "url": "https://github.com/orassayag"
     }
   ],
+  "type": "commonjs",
+  "main": "project1/index.html",
   "files": [
+    ".github",
+    ".vscode",
     "project1",
     "project2",
+    ".eslintrc",
     ".gitignore",
-    ".gitattributes",
+    ".prettierrc",
+    "CHANGELOG.md",
+    "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "INSTRUCTIONS.md",
     "LICENSE",
     "package.json",
-    "README.md"
+    "README.md",
+    "SECURITY.md"
   ],
-  "license": "MIT"
+  "scripts": {
+    "start": "echo 'No build process needed! Open any .html file in your browser or use Live Server extension in VSCode.'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
